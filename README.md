@@ -10,8 +10,12 @@ I build tools for a world that's **interoperable, secure, and collaborative**. T
 
 #### 📫 Find me elsewhere
 
-- 🌐 [sam-rogers.com](https://sam-rogers.com)
-- 💼 [linkedin.com/in/samrogers](https://www.linkedin.com/in/samrogers/)
+- Blog = [sam-rogers.com](https://sam-rogers.com/)
+  - LinkedIn = [linkedin.com/in/samrogers](https://www.linkedin.com/in/samrogers/)
+- Consultancy = [SnapSynapse.com](https://snapsynapse.com/) (President, Founded 2004)
+  - Substack = [Signals & Subtractions](https://signalsandsubtractions.substack.com/) (Mondays)
+- Startup = [PAICE.work](https://paice.work/) (CEO, Founded 2025)
+  - Substack = [PAICE.work](https://paice.substack.com/) (weekdays) 
 
 #### 🔨 What I'm building
 
