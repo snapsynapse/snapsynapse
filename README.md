@@ -25,5 +25,5 @@ I build tools for a world that's **interoperable, secure, and collaborative**. T
 | [skill-provenance](https://github.com/snapsynapse/skill-provenance) | Version-track AI skill files across sessions, platforms, and tools |
 | [ai-feature-tracker](https://github.com/snapsynapse/ai-feature-tracker) | Community tracker of AI feature availability across subscription tiers |
 | [substack2md](https://github.com/snapsynapse/substack2md) | Convert Substack newsletters → Obsidian-friendly Markdown via CDP |
-| [notion2md](https://github.com/snapsynapse/notion2md) | Convert Notion pages → Obsidian-friendly Markdown via CDP *(in progress)* |
+| [skill-a11y-audit](https://github.com/snapsynapse/skill-a11y-audit) | Claude/Codex agent skill for running accessibility audits |
 | [paice-near-integration](https://github.com/snapsynapse/paice-near-integration) | Privacy-preserving AI collaboration scoring with on-chain attestation via NEAR |
