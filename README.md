@@ -26,5 +26,5 @@ I build tools for a world that's **interoperable, secure, and collaborative**. T
 | [ai-feature-tracker](https://github.com/snapsynapse/ai-feature-tracker) | Community tracker of AI feature availability across subscription tiers |
 | [substack2md](https://github.com/snapsynapse/substack2md) | Convert Substack newsletters → Obsidian-friendly Markdown via CDP |
 | [skill-a11y-audit](https://github.com/snapsynapse/skill-a11y-audit) | Claude/Codex agent skill for running accessibility audits |
-| [hardguard25](https://github.com/snapsynapse/hardguard) | 25-character set that's visually distinct for any reader |
+| [hardguard25](https://github.com/snapsynapse/hardguard25) | 25-character set that's visually distinct for any reader |
 | [paice-near-integration](https://github.com/snapsynapse/paice-near-integration) | Privacy-preserving AI collaboration scoring with on-chain attestation via NEAR |
