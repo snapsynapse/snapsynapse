@@ -21,10 +21,9 @@ I build tools for a world that's **interoperable, secure, and collaborative**. T
 
 | Project | What it does |
 |---|---|
-| [turnfile](https://github.com/snapsynapse/turnfile) | File-based protocol for LLM agent collaboration on shared codebases |
+| [ai-capability-reference](https://snapsynapse.github.io/ai-capability-reference/) | See through the hype to understand AI features and capabilities |
 | [skill-provenance](https://github.com/snapsynapse/skill-provenance) | Version-track AI skill files across sessions, platforms, and tools |
-| [ai-feature-tracker](https://github.com/snapsynapse/ai-feature-tracker) | Community tracker of AI feature availability across subscription tiers |
-| [substack2md](https://github.com/snapsynapse/substack2md) | Convert Substack newsletters → Obsidian-friendly Markdown via CDP |
+| [turnfile](https://github.com/snapsynapse/turnfile) | File-based protocol for LLM agent collaboration on shared codebases |
 | [skill-a11y-audit](https://github.com/snapsynapse/skill-a11y-audit) | Claude/Codex agent skill for running accessibility audits |
 | [hardguard25](https://github.com/snapsynapse/hardguard25) | 25-character set that's visually distinct for any reader |
 | [paice-near-integration](https://github.com/snapsynapse/paice-near-integration) | Privacy-preserving AI collaboration scoring with on-chain attestation via NEAR |
