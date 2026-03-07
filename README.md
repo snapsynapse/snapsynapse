@@ -21,7 +21,7 @@ I build tools for a world that's **interoperable, secure, and collaborative**. T
 
 | Project | What it does |
 |---|---|
-| [ai-capability-reference](https://snapsynapse.github.io/ai-capability-reference/) | See through the hype to understand current AI features and capabilities |
+| [ai-capability-reference](https://airef.snapsynapse.com/) | Hypeless reference for AI capabilities, pricing tiers, surfaces, and availability in plain English |
 | [skill-provenance](https://github.com/snapsynapse/skill-provenance) | Metaskill for tracking Agent Skills across sessions, surfaces, and platforms. |
 | [turnfile](https://github.com/snapsynapse/turnfile) | File-based protocol for LLM agent collaboration on shared codebases |
 | [skill-a11y-audit](https://github.com/snapsynapse/skill-a11y-audit) | Claude/Codex agent skill for running accessibility audits |
