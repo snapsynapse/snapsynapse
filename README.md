@@ -19,7 +19,7 @@ Open standards and tooling released independently from [PAICE](https://paice.wor
 |---|---|
 | [graceful-boundaries](https://github.com/snapsynapse/graceful-boundaries) | Spec for how services communicate operational limits and error context to humans and autonomous agents |
 | [turnfile](https://github.com/snapsynapse/turnfile) | File-based protocol for LLM agents to collaborate on shared codebases without real-time communication |
-| [hardguard25](https://hardguard25.com) | 25-character alphabet for human-friendly unique IDs — like Crockford Base32 minus 11 confusable characters |
+| [hardguard25](https://github.com/hardguard25) | 25-character alphabet for human-friendly unique IDs — like Crockford Base32 minus 11 confusable characters |
 
 **Agent skills**
 
@@ -32,7 +32,7 @@ Open standards and tooling released independently from [PAICE](https://paice.wor
 
 | Project | What it does |
 |---|---|
-| [Knowledge as Code](https://knowledge-as-code.com) | Pattern and template for building structured knowledge bases that generate static sites, JSON APIs, and multi-output from markdown |
+| [Knowledge as Code](https://github.com/snapsynapse/knowledge-as-code-template) | Pattern and template for building structured knowledge bases that generate static sites, JSON APIs, and multi-output from markdown |
 | [Every AI Law](https://everyailaw.com) | Which AI regulations you likely care about, and why. Structured, obligation-first reference for compliance teams, legal counsel, and AI agents. |
 | [AI Tool Watch](https://aitool.watch) | Plain-English reference for what AI tools can actually do — capabilities, pricing, and platform support across ChatGPT, Claude, Gemini, Copilot, and more |
 | [Virtual Meeting Reference](https://meetings.snapsynapse.com) | Structured reference tracking capabilities across 22 virtual meeting and classroom platforms |
