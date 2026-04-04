@@ -25,7 +25,7 @@ Open standards and tooling released independently from [PAICE](https://paice.wor
 
 | Project | What it does |
 |---|---|
-| [skill-provenance](https://clawhub.ai/snapsynapse/skill-provenance) | Metaskill for version-tracking agent skill bundles across sessions, surfaces, and platforms |
+| [skill-provenance](https://github.com/snapsynapse/skill-provenance) | Metaskill for version-tracking agent skill bundles across sessions, surfaces, and platforms |
 | [skill-a11y-audit](https://github.com/snapsynapse/skill-a11y-audit) | Drop-in WCAG 2.1 AA accessibility audit for Claude Code, Codex, and other AI coding agents |
 
 **Knowledge as Code**
