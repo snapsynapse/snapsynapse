@@ -41,6 +41,12 @@ Open standards and tooling released independently because interoperability is th
 
 ---
 
+### Support this Open Infrastructure
+My open-source projects are free and always will be. Your sponsorship keeps specs evolving, tests passing, and tooling free for everyone.
+[https://github.com/sponsors/snapsynapse](https://github.com/sponsors/snapsynapse)
+
+---
+
 ### Collaborating
 
 Currently looking for people working on agent communication protocols, human capability measures, AI regulations & governance structures, and aggregate intelligence infrastructure. If that's you, please reach out: hello @ sam-rogers .com
