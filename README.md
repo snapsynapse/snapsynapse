@@ -18,7 +18,7 @@ Open standards and tooling released independently because interoperability is th
 
 - **[graceful-boundaries](https://github.com/snapsynapse/graceful-boundaries)** — How services communicate operational limits and error context to humans and autonomous agents
 - **[turnfile](https://github.com/snapsynapse/turnfile)** — File-based coordination for LLM agents collaborating on shared codebases without real-time communication
-- **[hardguard25](https://github.com/hardguard25)** — Human-friendly 25-character alphabet for unambiguous IDs
+- **[hardguard25](https://github.com/snapsynapse/hardguard25)** — Human-friendly 25-character alphabet for unambiguous IDs
 
 **Agent Tooling**
 
