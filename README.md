@@ -1,4 +1,4 @@
-<img align="right" src="imgs/sam.png" width="220" alt="Sam Rogers" />
+<img align="right" src="imgs/og.png" width="180" alt="Snap Synapse" />
 
 # Sam Rogers
 
@@ -14,11 +14,11 @@ Interoperability over integration · Measurement over intuition · Structure ove
 
 ### Aggregated Intelligence
 
-True intelligence in the AI era is composite — human and machine capabilities combined into something neither can achieve alone. PAICE.work operationalizes this through an Aggregated Intelligence Posture (AIP) measured across three vectors, bounded by the weakest:
+True intelligence in the AI era is composite: human and machine capabilities combined into something neither can achieve alone. PAICE.work operationalizes this through an Aggregated Intelligence Posture (AIP) measured across three vectors, bounded by the weakest:
 
 | Vector | Product | What it measures |
 |---|---|---|
-| People | [PAICE.work](https://paice.work/) | How effectively humans and AI actually collaborate — behavioral, not self-report |
+| People | [PAICE.work](https://paice.work/) | How effectively humans and AI actually collaborate. Behavioral, not self-report. |
 | Infrastructure | [Siteline](https://siteline.to/) | How ready an organization's digital presence is for AI agents acting on behalf of humans |
 | Regulation | [EveryAILaw](https://everyailaw.com/) | How informed and prepared an organization is for AI-specific compliance |
 
@@ -26,7 +26,7 @@ One score, one slide, three places to invest.
 
 ---
 
-### PAICE Portfolio — Open Infrastructure
+### PAICE Portfolio: Open Infrastructure
 
 Released independently because interoperability is the point, not lock-in. Built because the existing ecosystem couldn't deliver fast enough.
 
@@ -36,12 +36,12 @@ Released independently because interoperability is the point, not lock-in. Built
 | [turnfile](https://github.com/snapsynapse/turnfile) | File-based protocol for LLM agents to collaborate on shared codebases without real-time channels |
 | [skill-provenance](https://github.com/snapsynapse/skill-provenance) | Version identity and integrity verification for agent skill bundles across sessions, surfaces, and platforms |
 | [skill-a11y-audit](https://github.com/snapsynapse/skill-a11y-audit) | Drop-in WCAG 2.1 AA accessibility audit for AI coding agents |
-| [hardguard25](https://github.com/snapsynapse/hardguard25) | 25-character alphabet for human-friendly unambiguous IDs — Crockford Base32 minus 11 confusable characters |
-| [knowledge-as-code-template](https://github.com/snapsynapse/knowledge-as-code-template) | Pattern for building structured, agent-accessible knowledge bases — static sites, JSON APIs, multi-output from markdown |
+| [hardguard25](https://github.com/snapsynapse/hardguard25) | 25-character alphabet for human-friendly unambiguous IDs. Crockford Base32 minus 11 confusable characters. |
+| [knowledge-as-code-template](https://github.com/snapsynapse/knowledge-as-code-template) | Pattern for building structured, agent-accessible knowledge bases: static sites, JSON APIs, multi-output from markdown |
 | [AITool.watch](https://github.com/snapsynapse/ai-tool-watch) | Evidence-backed reference for AI capabilities, pricing, and platform support across major providers |
-| [paice-foundation](https://github.com/snapsynapse/paice-foundation) | Single-page portfolio site for PAICE.work PBC — [paice.foundation](https://paice.foundation/) |
+| [paice-foundation](https://github.com/snapsynapse/paice-foundation) | Single-page portfolio site for PAICE.work PBC at [paice.foundation](https://paice.foundation/) |
 
-*Privacy-preserving verification via [PAICE-NEAR](https://github.com/snapsynapse/paice-near-integration) — consolidating into the main PAICE repo.*
+*Privacy-preserving verification via [PAICE-NEAR](https://github.com/snapsynapse/paice-near-integration), consolidating into the main PAICE repo.*
 
 ---
 
@@ -77,7 +77,7 @@ Active contributor to other people's projects that I use and care about.
 
 ### Support this open infrastructure
 
-The open standards and tooling above are free and always will be. Sponsorship keeps specs evolving, tests passing, and tooling free for everyone. (The commercial products — PAICE.work, Siteline, EveryAILaw — sustain themselves through paid tiers.)
+The open standards and tooling above are free and always will be. Sponsorship keeps specs evolving, tests passing, and tooling free for everyone. The commercial products (PAICE.work, Siteline, EveryAILaw) sustain themselves through paid tiers.
 
 [github.com/sponsors/snapsynapse](https://github.com/sponsors/snapsynapse)
 
@@ -91,8 +91,8 @@ Currently looking for people working on agent communication protocols, human cap
 
 ### Elsewhere
 
-- [Signals & Subtractions](https://signalsandsubtractions.substack.com/) — weekly newsletter
-- [PAICE.work Substack](https://paice.substack.com/) — weekday updates
-- [dev.to/snapsynapse](https://dev.to/snapsynapse) — new releases
-- [LinkedIn](https://linkedin.com/in/samrogers/) — profile
-- [sam-rogers.com](https://sam-rogers.com/) — personal blog
+- [Signals & Subtractions](https://signalsandsubtractions.substack.com/), weekly newsletter
+- [PAICE.work Substack](https://paice.substack.com/), weekday updates
+- [dev.to/snapsynapse](https://dev.to/snapsynapse), new releases
+- [LinkedIn](https://linkedin.com/in/samrogers/), profile
+- [sam-rogers.com](https://sam-rogers.com/), personal blog
