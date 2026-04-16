@@ -1,4 +1,4 @@
-<img align="right" src="imgs/og.png" width="180" alt="Sam Rogers" />
+<img align="right" src="imgs/sam.png" width="220" alt="Sam Rogers" />
 
 # Sam Rogers
 
@@ -36,8 +36,12 @@ Released independently because interoperability is the point, not lock-in. Built
 | [turnfile](https://github.com/snapsynapse/turnfile) | File-based protocol for LLM agents to collaborate on shared codebases without real-time channels |
 | [skill-provenance](https://github.com/snapsynapse/skill-provenance) | Version identity and integrity verification for agent skill bundles across sessions, surfaces, and platforms |
 | [skill-a11y-audit](https://github.com/snapsynapse/skill-a11y-audit) | Drop-in WCAG 2.1 AA accessibility audit for AI coding agents |
+| [hardguard25](https://github.com/snapsynapse/hardguard25) | 25-character alphabet for human-friendly unambiguous IDs — Crockford Base32 minus 11 confusable characters |
 | [knowledge-as-code-template](https://github.com/snapsynapse/knowledge-as-code-template) | Pattern for building structured, agent-accessible knowledge bases — static sites, JSON APIs, multi-output from markdown |
 | [AITool.watch](https://github.com/snapsynapse/ai-tool-watch) | Evidence-backed reference for AI capabilities, pricing, and platform support across major providers |
+| [paice-foundation](https://github.com/snapsynapse/paice-foundation) | Single-page portfolio site for PAICE.work PBC — [paice.foundation](https://paice.foundation/) |
+
+*Privacy-preserving verification via [PAICE-NEAR](https://github.com/snapsynapse/paice-near-integration) — consolidating into the main PAICE repo.*
 
 ---
 
@@ -47,8 +51,9 @@ Personal tooling. Not part of the PAICE Portfolio brand. Open source.
 
 | Project | What it does |
 |---|---|
-| [hardguard25](https://github.com/snapsynapse/hardguard25) | 25-character alphabet for human-friendly unique IDs — Crockford Base32 minus 11 confusable characters |
+| [VirtualClassroom.watch](https://github.com/snapsynapse/virtual-classroom-watch) | Structured reference tracking virtual meeting and classroom platform capabilities |
 | [substack2md](https://github.com/snapsynapse/substack2md) | Convert Substack newsletters to markdown for local archives and consistent RAG storage |
+| [audible-pdf-renamer](https://github.com/snapsynapse/audible-pdf-renamer) | Rename cryptically-named Audible PDF companions to their actual book titles |
 
 ---
 
@@ -72,7 +77,7 @@ Active contributor to other people's projects that I use and care about.
 
 ### Support this open infrastructure
 
-Everything here is free and always will be. Sponsorship keeps specs evolving, tests passing, and tooling free for everyone.
+The open standards and tooling above are free and always will be. Sponsorship keeps specs evolving, tests passing, and tooling free for everyone. (The commercial products — PAICE.work, Siteline, EveryAILaw — sustain themselves through paid tiers.)
 
 [github.com/sponsors/snapsynapse](https://github.com/sponsors/snapsynapse)
 
