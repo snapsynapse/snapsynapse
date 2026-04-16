@@ -4,6 +4,15 @@
 
 **I build AI on-ramps for humans.**
 
+[![Sponsor](https://img.shields.io/badge/Sponsor-ea4aaa?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/snapsynapse)
+[![Signals & Subtractions](https://img.shields.io/badge/Signals%20%26%20Subtractions-FF6719?logo=substack&logoColor=white)](https://signalsandsubtractions.substack.com/)
+[![PAICE.work Daily](https://img.shields.io/badge/PAICE.work%20Daily-FF6719?logo=substack&logoColor=white)](https://paice.substack.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/samrogers/)
+[![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?logo=devdotto&logoColor=white)](https://dev.to/snapsynapse)
+[![sam--rogers.com](https://img.shields.io/badge/sam--rogers.com-333333?logo=rss&logoColor=white)](https://sam-rogers.com/)
+
+Follow for open standards, agent tooling, and measurement infrastructure. Weekly essays, regular shipping.
+
 Founder, [PAICE.work](https://paice.work/) · [Snap Synapse](https://snapsynapse.com/)
 
 Systems don't generally fail because the tech is bad. They fail at the handoffs between roles, between agents, between decisions that no one designed to connect. I build the standards, diagnostics, and tooling that make human-AI collaboration structurally sound, not just technically possible.
@@ -86,13 +95,3 @@ The open standards and tooling above are free and always will be. Sponsorship ke
 ### Collaborating
 
 Currently looking for people working on agent communication protocols, human capability measures, AI regulations and governance structures, and aggregate intelligence infrastructure. Reach out: hello @ sam-rogers .com
-
----
-
-### Elsewhere
-
-- [Signals & Subtractions](https://signalsandsubtractions.substack.com/), weekly newsletter
-- [PAICE.work Substack](https://paice.substack.com/), weekday updates
-- [dev.to/snapsynapse](https://dev.to/snapsynapse), new releases
-- [LinkedIn](https://linkedin.com/in/samrogers/), profile
-- [sam-rogers.com](https://sam-rogers.com/), personal blog
