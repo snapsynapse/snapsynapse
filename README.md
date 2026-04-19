@@ -60,7 +60,7 @@ Personal tooling. Not part of the PAICE Portfolio brand. Open source.
 
 | Project | What it does |
 |---|---|
-| [VirtualClassroom.watch](https://github.com/snapsynapse/virtual-classroom-watch) | Structured reference tracking virtual meeting and classroom platform capabilities |
+| [prompter-kit](https://github.com/snapsynapse/prompter-kit)) | Script tools for your Elgato Prompter that they forgot to ship |
 | [substack2md](https://github.com/snapsynapse/substack2md) | Convert Substack newsletters to markdown for local archives and consistent RAG storage |
 | [audible-pdf-renamer](https://github.com/snapsynapse/audible-pdf-renamer) | Rename cryptically-named Audible PDF companions to their actual book titles |
 
