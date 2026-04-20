@@ -41,9 +41,9 @@ Released independently because interoperability is the point, not lock-in. Built
 
 | Project | What it does |
 |---|---|
+| [skill-provenance](https://github.com/snapsynapse/skill-provenance) | Version identity and integrity verification for agent skill bundles across sessions, surfaces, and platforms · Listed in [Awesome OpenClaw Skills](https://github.com/VoltAgent/awesome-openclaw-skills) · [8.41/10 on ProSkills.md](https://proskills.md) |
 | [graceful-boundaries](https://github.com/snapsynapse/graceful-boundaries) | Spec for how services communicate operational limits and error context to humans and autonomous agents |
 | [turnfile](https://github.com/snapsynapse/turnfile) | File-based protocol for LLM agents to collaborate on shared codebases without real-time channels |
-| [skill-provenance](https://github.com/snapsynapse/skill-provenance) | Version identity and integrity verification for agent skill bundles across sessions, surfaces, and platforms |
 | [skill-a11y-audit](https://github.com/snapsynapse/skill-a11y-audit) | Drop-in WCAG 2.1 AA accessibility audit for AI coding agents |
 | [hardguard25](https://github.com/snapsynapse/hardguard25) | 25-character alphabet for human-friendly unambiguous IDs. Crockford Base32 minus 11 confusable characters. |
 | [knowledge-as-code-template](https://github.com/snapsynapse/knowledge-as-code-template) | Pattern for building structured, agent-accessible knowledge bases: static sites, JSON APIs, multi-output from markdown |
