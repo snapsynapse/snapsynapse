@@ -31,24 +31,30 @@ True intelligence in the AI era is composite: human and machine capabilities com
 | Infrastructure | [Siteline](https://siteline.to/) | How ready an organization's digital presence is for AI agents acting on behalf of humans |
 | Regulation | [EveryAILaw](https://everyailaw.com/) | How informed and prepared an organization is for AI-specific compliance |
 
-One score, one slide, three places to invest.
+Synthesized into a single [AI Posture](https://aiposture.org/) score. One number, three places to invest.
 
 ---
 
-### PAICE Portfolio: Open Infrastructure
+### PAICE Portfolio: Open Standards
 
 Released independently because interoperability is the point, not lock-in. Built because the existing ecosystem couldn't deliver fast enough.
 
 | Project | What it does |
 |---|---|
-| [skill-provenance](https://github.com/snapsynapse/skill-provenance) | Version identity and integrity verification for agent skill bundles across sessions, surfaces, and platforms · Listed in [Awesome OpenClaw Skills](https://github.com/VoltAgent/awesome-openclaw-skills) · [8.41/10 on ProSkills.md](https://proskills.md) |
-| [graceful-boundaries](https://github.com/snapsynapse/graceful-boundaries) | Spec for how services communicate operational limits and error context to humans and autonomous agents |
-| [turnfile](https://github.com/snapsynapse/turnfile) | File-based protocol for LLM agents to collaborate on shared codebases without real-time channels |
-| [skill-a11y-audit](https://github.com/snapsynapse/skill-a11y-audit) | Drop-in WCAG 2.1 AA accessibility audit for AI coding agents |
-| [hardguard25](https://github.com/snapsynapse/hardguard25) | 25-character alphabet for human-friendly unambiguous IDs. Crockford Base32 minus 11 confusable characters. |
-| [knowledge-as-code-template](https://github.com/snapsynapse/knowledge-as-code-template) | Pattern for building structured, agent-accessible knowledge bases: static sites, JSON APIs, multi-output from markdown |
-| [AITool.watch](https://github.com/snapsynapse/ai-tool-watch) | Evidence-backed reference for AI capabilities, pricing, and platform support across major providers |
-| [paice-foundation](https://github.com/snapsynapse/paice-foundation) | Single-page portfolio site for PAICE.work PBC at [paice.foundation](https://paice.foundation/) |
+| [graceful-boundaries](https://github.com/snapsynapse/graceful-boundaries) | How services communicate operational limits to humans and autonomous agents. Four conformance levels, open spec, CC-BY-4.0. |
+| [skill-provenance](https://github.com/snapsynapse/skill-provenance) | Version identity and manifest tracking for agent skill bundles · Listed in [Awesome OpenClaw Skills](https://github.com/VoltAgent/awesome-openclaw-skills) · [8.41/10 on ProSkills.md](https://proskills.md) |
+| [turnfile](https://github.com/snapsynapse/turnfile) | Peer protocol for multi-agent collaboration without a central orchestrator. Consent-based, adversarial-by-design negotiation. |
+| [hardguard25](https://github.com/snapsynapse/hardguard25) | Human-safe identifier alphabet. Eliminates ambiguous characters so IDs survive handoff between people, print, and machines. |
+| [ai-posture](https://github.com/snapsynapse/ai-posture) | Aggregated Intelligence Posture framework. One governance score across People, Infrastructure, and Regulation — bounded by the weakest link. |
+| [publedge](https://github.com/snapsynapse/publedge) | Open recordkeeping protocol for regulatory interpretations — JIAs, RMAs, no-action letters, advisory opinions. Hash-pinned, ontology-bound, machine-readable. *(v0.1-pre)* |
+
+### PAICE Portfolio: Infrastructure
+
+| Project | What it does |
+|---|---|
+| [ai-tool-watch](https://github.com/snapsynapse/ai-tool-watch) | Plain-English AI capability reference, verified through a four-model consensus cascade. Keeps assessment rubrics current as models change. |
+| [knowledge-as-code-template](https://github.com/snapsynapse/knowledge-as-code-template) | Ontology-first template for structured, version-controlled knowledge bases. Powers AI Tool Watch, Every AI Law, and more. |
+| [skill-a11y-audit](https://github.com/snapsynapse/skill-a11y-audit) | Portable agent skill that runs WCAG 2.1 AA accessibility audits on AI-generated web code. Quality gate for agent-authored interfaces. |
 
 *Privacy-preserving verification via [PAICE-NEAR](https://github.com/snapsynapse/paice-near-integration), consolidating into the main PAICE repo.*
 
