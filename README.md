@@ -5,19 +5,21 @@
 **I build AI on-ramps for humans.**
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-ea4aaa?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/snapsynapse)
-[![Signals & Subtractions](https://img.shields.io/badge/Signals%20%26%20Subtractions-FF6719?logo=substack&logoColor=white)](https://signalsandsubtractions.substack.com/)
-[![PAICE.work Daily](https://img.shields.io/badge/PAICE.work%20Daily-FF6719?logo=substack&logoColor=white)](https://paice.substack.com/)
+[![Signals & Subtractions · Weekly](https://img.shields.io/badge/Signals%20%26%20Subtractions%20%C2%B7%20Weekly-FF6719?logo=substack&logoColor=white)](https://signalsandsubtractions.substack.com/)
+[![PAICE.work · Daily](https://img.shields.io/badge/PAICE.work%20%C2%B7%20Daily-FF6719?logo=substack&logoColor=white)](https://paice.substack.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/samrogers/)
 [![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?logo=devdotto&logoColor=white)](https://dev.to/snapsynapse)
-[![sam--rogers.com](https://img.shields.io/badge/sam--rogers.com-333333?logo=rss&logoColor=white)](https://sam-rogers.com/)
+[![sam-rogers.com](https://img.shields.io/badge/sam--rogers.com-333333?logo=rss&logoColor=white)](https://sam-rogers.com/)
 
-Follow for open standards, agent tooling, and measurement infrastructure. Weekly essays, regular shipping.
+Follow for open standards, agent tooling, and measurement infrastructure.
 
 Founder, [PAICE.work](https://paice.work/) · [Snap Synapse](https://snapsynapse.com/)
 
 Systems don't generally fail because the tech is bad. They fail at the handoffs between roles, between agents, between decisions that no one designed to connect. I build the standards, diagnostics, and tooling that make human-AI collaboration structurally sound, not just technically possible.
 
 Interoperability over integration · Measurement over intuition · Structure over speed
+
+**Now:** Drafting the obligation-first v0.1 spec · Publishing the first PubLedge template library for Utah JIA/RMA · Shipping EveryAILaw Pro
 
 ---
 
@@ -39,36 +41,37 @@ Synthesized into a single [AI Posture](https://aiposture.org/) score. One number
 
 Released independently because interoperability is the point, not lock-in. Built because the existing ecosystem couldn't deliver fast enough.
 
-| Project | What it does |
-|---|---|
-| [graceful-boundaries](https://github.com/snapsynapse/graceful-boundaries) | How services communicate operational limits to humans and autonomous agents. Four conformance levels, open spec, CC-BY-4.0. |
-| [skill-provenance](https://github.com/snapsynapse/skill-provenance) | Version identity and manifest tracking for agent skill bundles · Listed in [Awesome OpenClaw Skills](https://github.com/VoltAgent/awesome-openclaw-skills) · [8.41/10 on ProSkills.md](https://proskills.md) |
-| [turnfile](https://github.com/snapsynapse/turnfile) | Peer protocol for multi-agent collaboration without a central orchestrator. Consent-based, adversarial-by-design negotiation. |
-| [hardguard25](https://github.com/snapsynapse/hardguard25) | Human-safe identifier alphabet. Eliminates ambiguous characters so IDs survive handoff between people, print, and machines. |
-| [ai-posture](https://github.com/snapsynapse/ai-posture) | Aggregated Intelligence Posture framework. One governance score across People, Infrastructure, and Regulation — bounded by the weakest link. |
-| [publedge](https://github.com/snapsynapse/publedge) | Open recordkeeping protocol for regulatory interpretations — JIAs, RMAs, no-action letters, advisory opinions. Hash-pinned, ontology-bound, machine-readable. *(v0.1-pre)* |
+| Project | What it does | Site |
+|---|---|---|
+| [graceful-boundaries](https://github.com/snapsynapse/graceful-boundaries) | How services communicate operational limits to humans and autonomous agents. Four conformance levels, open spec, CC-BY-4.0. | [gracefulboundaries.dev](https://gracefulboundaries.dev/) |
+| [skill-provenance](https://github.com/snapsynapse/skill-provenance) | Version identity and manifest tracking for agent skill bundles · Listed in [Awesome OpenClaw Skills](https://github.com/VoltAgent/awesome-openclaw-skills) · [8.41/10 on ProSkills.md](https://proskills.md) | [skillprovenance.dev](https://skillprovenance.dev/) |
+| [turnfile](https://github.com/snapsynapse/turnfile) | Peer protocol for multi-agent collaboration without a central orchestrator. Consent-based, adversarial-by-design negotiation. | [turnfile.work](https://turnfile.work/) |
+| [hardguard25](https://github.com/snapsynapse/hardguard25) | Human-safe identifier alphabet. Eliminates ambiguous characters so IDs survive handoff between people, print, and machines. | [hardguard25.com](https://hardguard25.com/) |
+| [ai-posture](https://github.com/snapsynapse/ai-posture) | Aggregated Intelligence Posture framework. One governance score across People, Infrastructure, and Regulation — bounded by the weakest link. | [aiposture.org](https://aiposture.org/) |
+| [publedge](https://github.com/snapsynapse/publedge) | Open recordkeeping protocol for regulatory interpretations — JIAs, RMAs, no-action letters, advisory opinions. Hash-pinned, ontology-bound, machine-readable. *(v0.1-pre)* | [publedge.org](https://publedge.org/) |
+| [obligation-first](https://github.com/snapsynapse/obligation-first) | Open upper schema for normative content — laws, cases, and agreements. Four-role spine (Authority, Instrument, Term, Obligation), JSON-LD, bound to the Semantic Arts gist upper ontology. *(v0.1.0-draft)* | [obligationfirst.org](https://obligationfirst.org/) |
 
 ### PAICE Portfolio: Infrastructure
 
-| Project | What it does |
-|---|---|
-| [ai-tool-watch](https://github.com/snapsynapse/ai-tool-watch) | Plain-English AI capability reference, verified through a four-model consensus cascade. Keeps assessment rubrics current as models change. |
-| [knowledge-as-code-template](https://github.com/snapsynapse/knowledge-as-code-template) | Ontology-first template for structured, version-controlled knowledge bases. Powers AI Tool Watch, Every AI Law, and more. |
-| [skill-a11y-audit](https://github.com/snapsynapse/skill-a11y-audit) | Portable agent skill that runs WCAG 2.1 AA accessibility audits on AI-generated web code. Quality gate for agent-authored interfaces. |
-
-*Privacy-preserving verification via [PAICE-NEAR](https://github.com/snapsynapse/paice-near-integration), consolidating into the main PAICE repo.*
+| Project | What it does | Site |
+|---|---|---|
+| [ai-tool-watch](https://github.com/snapsynapse/ai-tool-watch) | Plain-English AI capability reference, verified through a four-model consensus cascade. Keeps assessment rubrics current as models change. | [aitool.watch](https://aitool.watch/) |
+| [knowledge-as-code-template](https://github.com/snapsynapse/knowledge-as-code-template) | Ontology-first template for structured, version-controlled knowledge bases. Powers AI Tool Watch, Every AI Law, and more. | [knowledge-as-code.com](https://knowledge-as-code.com/) |
+| [skill-a11y-audit](https://github.com/snapsynapse/skill-a11y-audit) | Portable agent skill that runs WCAG 2.1 AA accessibility audits on AI-generated web code. Quality gate for agent-authored interfaces. | [skilla11y.dev](https://skilla11y.dev/) |
+| [ai-incident-law](https://github.com/snapsynapse/ai-incident-law) | Searchable index of public matters involving AI-related incidents, failures, and resulting legal or regulatory action. Dependency-free SPA, Obligation-First bound. | [aiincidentlaw.org](https://aiincidentlaw.org/) |
 
 ---
 
 ### Snap Synapse utilities
 
-Personal tooling. Not part of the PAICE Portfolio brand. Open source.
+Personal tooling. Open source.
 
-| Project | What it does |
-|---|---|
-| [prompter-kit](https://github.com/snapsynapse/prompter-kit) | Script tools for your Elgato Prompter that they forgot to ship |
-| [substack2md](https://github.com/snapsynapse/substack2md) | Convert Substack newsletters to markdown for local archives and consistent RAG storage |
-| [audible-pdf-renamer](https://github.com/snapsynapse/audible-pdf-renamer) | Rename cryptically-named Audible PDF companions to their actual book titles |
+| Project | What it does | Site |
+|---|---|---|
+| [prompter-kit](https://github.com/snapsynapse/prompter-kit) | Script tools for your Elgato Prompter that they forgot to ship | [prompterkit.app](https://prompterkit.app/) |
+| [virtual-classroom-watch](https://github.com/snapsynapse/virtual-classroom-watch) | Structured reference tracking 22 virtual meeting and classroom platforms across 9 features and 157 capability assessments. | [meetings.snapsynapse.com](https://meetings.snapsynapse.com/) |
+| [substack2md](https://github.com/snapsynapse/substack2md) | Convert Substack newsletters to markdown for local archives and consistent RAG storage | — |
+| [audible-pdf-renamer](https://github.com/snapsynapse/audible-pdf-renamer) | Rename cryptically-named Audible PDF companions to their actual book titles | — |
 
 ---
 
@@ -76,7 +79,7 @@ Personal tooling. Not part of the PAICE Portfolio brand. Open source.
 
 Active contributor to other people's projects that I use and care about.
 
-| Project | Upstream | My contribution |
+| Project | Upstream | Contribution |
 |---|---|---|
 | [OB1](https://github.com/snapsynapse/OB1) | Nate B. Jones' [Open Brain](https://github.com/NateBJones-Projects/OB1) | Extensions, recipes, skills, and primitives in the Open Brain ecosystem |
 | [agentlink](https://github.com/snapsynapse/agentlink) | Martin Mose Facondini's [agentlink](https://github.com/martinmose/agentlink) | CLI enhancements proposed upstream in [PR #2](https://github.com/martinmose/agentlink/pull/2): `detect`, `scan`, `hooks`, `sync --backup`, global config, integration tests |
@@ -85,8 +88,7 @@ Active contributor to other people's projects that I use and care about.
 
 ### Companies
 
-- [PAICE.work PBC](https://paice.work/) measures how effectively people and AI systems collaborate. Behavioral diagnostics for People + AI Collaboration Effectiveness.
-- [Snap Synapse LLC](https://snapsynapse.com/) helps teams and orgs apply AI responsibly, without the usual drama or damage. Structured implementations that move from AI promise to AI practice.
+[PAICE.work PBC](https://paice.work/) · [Snap Synapse LLC](https://snapsynapse.com/)
 
 ---
 
@@ -100,4 +102,8 @@ The open standards and tooling above are free and always will be. Sponsorship ke
 
 ### Collaborating
 
-Currently looking for people working on agent communication protocols, human capability measures, AI regulations and governance structures, and aggregate intelligence infrastructure. Reach out: hello @ sam-rogers .com
+Currently looking for people working on agent communication protocols, human capability measures, AI regulations and governance structures, and aggregate intelligence infrastructure. Reach out: [hello@sam-rogers.com](mailto:hello@sam-rogers.com)
+
+---
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=snapsynapse&show_icons=true&hide_border=true&hide_title=true&count_private=true)](https://github.com/snapsynapse)
