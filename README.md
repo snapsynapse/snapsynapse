@@ -19,7 +19,7 @@ Systems don't generally fail because the tech is bad. They fail at the handoffs 
 
 Interoperability over integration · Measurement over intuition · Structure over speed
 
-**Now:** Drafting the obligation-first v0.1 spec · Publishing the first PubLedge template library for Utah JIA/RMA · Shipping EveryAILaw Pro
+**Now:** Building security protocol for AI agents with GuideCheck · Publishing the first PubLedge template library for Utah JIA/RMA · Shipping EveryAILaw Pro
 
 ---
 
