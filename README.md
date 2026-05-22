@@ -47,9 +47,10 @@ Released independently because interoperability is the point, not lock-in. Built
 | [skill-provenance](https://github.com/snapsynapse/skill-provenance) | Version identity and manifest tracking for agent skill bundles · Listed in [Awesome OpenClaw Skills](https://github.com/VoltAgent/awesome-openclaw-skills) · [8.41/10 on ProSkills.md](https://proskills.md) | [skillprovenance.dev](https://skillprovenance.dev/) |
 | [turnfile](https://github.com/snapsynapse/turnfile) | Peer protocol for multi-agent collaboration without a central orchestrator. Consent-based, adversarial-by-design negotiation. | [turnfile.work](https://turnfile.work/) |
 | [hardguard25](https://github.com/snapsynapse/hardguard25) | Human-safe identifier alphabet. Eliminates ambiguous characters so IDs survive handoff between people, print, and machines. | [hardguard25.com](https://hardguard25.com/) |
+| [guidecheck](https://github.com/snapsynapse/guidecheck) | Human-verifiable plain-text profile for assistant-facing setup guides. A bounded, ASCII-only `assistant-guide.txt` a human can review in full before an assistant acts on it. | [guidecheck.org](https://guidecheck.org/) |
 | [ai-posture](https://github.com/snapsynapse/ai-posture) | Aggregated Intelligence Posture framework. One governance score across People, Infrastructure, and Regulation — bounded by the weakest link. | [aiposture.org](https://aiposture.org/) |
-| [publedge](https://github.com/snapsynapse/publedge) | Open recordkeeping protocol for regulatory interpretations — JIAs, RMAs, no-action letters, advisory opinions. Hash-pinned, ontology-bound, machine-readable. *(v0.1-pre)* | [publedge.org](https://publedge.org/) |
-| [obligation-first](https://github.com/snapsynapse/obligation-first) | Open upper schema for normative content — laws, cases, and agreements. Four-role spine (Authority, Instrument, Term, Obligation), JSON-LD, bound to the Semantic Arts gist upper ontology. *(v0.1.0-draft)* | [obligationfirst.org](https://obligationfirst.org/) |
+| [publedge](https://github.com/snapsynapse/publedge) | Open recordkeeping protocol for regulatory interpretations — JIAs, RMAs, no-action letters, advisory opinions. Hash-pinned, ontology-bound, machine-readable. | [publedge.org](https://publedge.org/) |
+| [obligation-first](https://github.com/snapsynapse/obligation-first) | Open upper schema for normative content — laws, cases, and agreements. Four-role spine (Authority, Instrument, Term, Obligation), JSON-LD, bound to the Semantic Arts gist upper ontology. | [obligationfirst.org](https://obligationfirst.org/) |
 
 ### PAICE Portfolio: Infrastructure
 
@@ -68,6 +69,7 @@ Personal tooling. Open source.
 
 | Project | What it does | Site |
 |---|---|---|
+| [resume](https://github.com/snapsynapse/resume) | AI-enabled interactive resume — concise work history, an AI chat for recruiter questions, and a job-description fit assessment. | [sam-rogers.com](https://sam-rogers.com/) |
 | [prompter-kit](https://github.com/snapsynapse/prompter-kit) | Script tools for your Elgato Prompter that they forgot to ship | [prompterkit.app](https://prompterkit.app/) |
 | [virtual-classroom-watch](https://github.com/snapsynapse/virtual-classroom-watch) | Structured reference tracking 22 virtual meeting and classroom platforms across 9 features and 157 capability assessments. | [meetings.snapsynapse.com](https://meetings.snapsynapse.com/) |
 | [substack2md](https://github.com/snapsynapse/substack2md) | Convert Substack newsletters to markdown for local archives and consistent RAG storage | — |
