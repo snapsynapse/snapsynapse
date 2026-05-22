@@ -69,7 +69,6 @@ Personal tooling. Open source.
 
 | Project | What it does | Site |
 |---|---|---|
-| [resume](https://github.com/snapsynapse/resume) | AI-enabled interactive resume — concise work history, an AI chat for recruiter questions, and a job-description fit assessment. | [sam-rogers.com](https://sam-rogers.com/) |
 | [prompter-kit](https://github.com/snapsynapse/prompter-kit) | Script tools for your Elgato Prompter that they forgot to ship | [prompterkit.app](https://prompterkit.app/) |
 | [virtual-classroom-watch](https://github.com/snapsynapse/virtual-classroom-watch) | Structured reference tracking 22 virtual meeting and classroom platforms across 9 features and 157 capability assessments. | [meetings.snapsynapse.com](https://meetings.snapsynapse.com/) |
 | [substack2md](https://github.com/snapsynapse/substack2md) | Convert Substack newsletters to markdown for local archives and consistent RAG storage | — |
@@ -90,7 +89,7 @@ Active contributor to other people's projects that I use and care about.
 
 ### Companies
 
-[PAICE.work PBC](https://paice.work/) · [Snap Synapse LLC](https://snapsynapse.com/)
+[PAICE.work PBC](https://paice.work/) · [Snap Synapse LLC](https://snapsynapse.com/) · _[yours](https://github.com/snapsynapse/resume)_
 
 ---
 
