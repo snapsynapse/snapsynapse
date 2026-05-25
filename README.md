@@ -104,7 +104,3 @@ The open standards and tooling above are free and always will be. Sponsorship ke
 ### Collaborating
 
 Currently looking for people working on agent communication protocols, human capability measures, AI regulations and governance structures, and aggregate intelligence infrastructure. Reach out: [hello@sam-rogers.com](mailto:hello@sam-rogers.com)
-
----
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=snapsynapse&show_icons=true&hide_border=true&hide_title=true&count_private=true)](https://github.com/snapsynapse)
