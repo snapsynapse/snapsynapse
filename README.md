@@ -71,7 +71,7 @@ Personal tooling. Open source.
 |---|---|---|
 | [prompter-kit](https://github.com/snapsynapse/prompter-kit) | Script tools for your Elgato Prompter that they forgot to ship | [prompterkit.app](https://prompterkit.app/) |
 | [virtual-classroom-watch](https://github.com/snapsynapse/virtual-classroom-watch) | Structured reference tracking 22 virtual meeting and classroom platforms across 9 features and 157 capability assessments. | [meetings.snapsynapse.com](https://meetings.snapsynapse.com/) |
-| [substack2md](https://github.com/snapsynapse/substack2md) | Convert Substack newsletters to markdown for local archives and consistent RAG storage | — |
+| [substack2md](https://github.com/snapsynapse/substack2md) | Convert Substack newsletters to markdown for local archives and consistent RAG storage | [substack2md.space](https://substack2md.space/) |
 | [audible-pdf-renamer](https://github.com/snapsynapse/audible-pdf-renamer) | Rename cryptically-named Audible PDF companions to their actual book titles | — |
 
 ---
