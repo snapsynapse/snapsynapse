@@ -18,7 +18,7 @@ Systems do not generally fail because the tech is bad. They fail at the handoffs
 
 Interoperability over integration. Measurement over intuition. Structure over speed.
 
-**Now:** GuideCheck agent security protocol · PubLedge Utah JIA/RMA templates · EveryAILaw Pro
+**Now:** AI Posture + Aggregated Intelligence twin whitepaper · GuideCheck Level 5 runtime conformance · EveryAILaw Pro
 
 ---
 
@@ -53,33 +53,52 @@ True intelligence in the AI era is composite: human and machine capabilities com
 | Infrastructure | [Siteline](https://siteline.to/) | How ready an organization's digital presence is for AI agents acting on behalf of humans |
 | Regulation | [EveryAILaw](https://everyailaw.com/) | How informed and prepared an organization is for AI-specific compliance |
 
-Synthesized into a single [AI Posture](https://aiposture.org/) score. One number, three places to invest.
+Synthesized into a single [AI Posture](https://aiposture.org/) score. One number, three places to invest. AI Posture sits at the top of the PAICE portfolio as the unifying thesis the rest of the work operationalizes.
 
 ---
 
-### PAICE Portfolio: Open Standards
+### PAICE Portfolio
 
-Released independently because interoperability is the point, not lock-in. These are portable specs and tools for agent infrastructure, governance, and machine-readable public knowledge.
+Released independently because interoperability is the point, not lock-in. Portable specs and tools for agent infrastructure, governance, and machine-readable public knowledge. AI Posture is the thesis; the three measurement arms (People, Infrastructure, Regulation) each have a lead instrument; substrate is the cross-cutting open-standards layer.
+
+#### Thesis
+
+| Project | Status | Use it when... | Site |
+|---|---|---|---|
+| [ai-posture](https://github.com/snapsynapse/ai-posture) | Active framework | One governance score is needed across People, Infrastructure, and Regulation, bounded by the weakest arm | [aiposture.org](https://aiposture.org/) |
+
+#### Regulation arm: open siblings
+
+| Project | Status | Use it when... | Site |
+|---|---|---|---|
+| [publedge](https://github.com/snapsynapse/publedge) | Active draft | Regulatory interpretations need open, hash-pinned, ontology-bound records | [publedge.org](https://publedge.org/) |
+| [ai-incident-law](https://github.com/snapsynapse/ai-incident-law) | Public index | AI-related legal and regulatory incidents need searchable public tracking | [aiincidentlaw.org](https://aiincidentlaw.org/) |
+
+#### Substrate: in production
 
 | Project | Status | Use it when... | Site |
 |---|---|---|---|
 | [graceful-boundaries](https://github.com/snapsynapse/graceful-boundaries) | Stable spec | Services need to communicate operational limits to humans and autonomous agents | [gracefulboundaries.dev](https://gracefulboundaries.dev/) |
-| [skill-provenance](https://github.com/snapsynapse/skill-provenance) | Stable spec | Agent skill bundles need version identity, manifests, and provenance | [skillprovenance.dev](https://skillprovenance.dev/) |
-| [guidecheck](https://github.com/snapsynapse/guidecheck) | Active draft | Assistant-facing setup guides need a bounded, human-verifiable profile | [guidecheck.org](https://guidecheck.org/) |
-| [turnfile](https://github.com/snapsynapse/turnfile) | Active draft | Multiple agents need consent-based collaboration without a central orchestrator | [turnfile.work](https://turnfile.work/) |
-| [hardguard25](https://github.com/snapsynapse/hardguard25) | Stable spec | Identifiers must survive handoff between people, print, and machines | [hardguard25.com](https://hardguard25.com/) |
-| [ai-posture](https://github.com/snapsynapse/ai-posture) | Active framework | AI readiness needs one governance score across people, infrastructure, and regulation | [aiposture.org](https://aiposture.org/) |
-| [publedge](https://github.com/snapsynapse/publedge) | Active draft | Regulatory interpretations need open, hash-pinned, ontology-bound records | [publedge.org](https://publedge.org/) |
 | [obligation-first](https://github.com/snapsynapse/obligation-first) | Active schema | Laws, cases, and agreements need a four-role normative spine in JSON-LD | [obligationfirst.org](https://obligationfirst.org/) |
+| [guidecheck](https://github.com/snapsynapse/guidecheck) | Active draft | Assistant-facing setup guides need a bounded, human-verifiable profile | [guidecheck.org](https://guidecheck.org/) |
+| [knowledge-as-code-template](https://github.com/snapsynapse/knowledge-as-code-template) | Maintained template | Structured knowledge bases need ontology-first version control | [knowledge-as-code.com](https://knowledge-as-code.com/) |
 
-### PAICE Portfolio: Infrastructure
+#### Substrate: active development
 
 | Project | Status | Use it when... | Site |
 |---|---|---|---|
+| [turnfile](https://github.com/snapsynapse/turnfile) | Active draft | Multiple agents need consent-based collaboration without a central orchestrator | [turnfile.work](https://turnfile.work/) |
+| [skill-provenance](https://github.com/snapsynapse/skill-provenance) | Stable spec | Agent skill bundles need version identity, manifests, and provenance | [skillprovenance.dev](https://skillprovenance.dev/) |
+
+### Snap Synapse open standards
+
+Open standards stewarded by Snap Synapse LLC. Used across the PAICE portfolio and beyond.
+
+| Project | Status | Use it when... | Site |
+|---|---|---|---|
+| [hardguard25](https://github.com/snapsynapse/hardguard25) | Stable spec | Identifiers must survive handoff between people, print, and machines | [hardguard25.com](https://hardguard25.com/) |
 | [ai-tool-watch](https://github.com/snapsynapse/ai-tool-watch) | Production reference | AI capability assessments need a plain-English, model-verified reference | [aitool.watch](https://aitool.watch/) |
-| [knowledge-as-code-template](https://github.com/snapsynapse/knowledge-as-code-template) | Maintained template | Structured knowledge bases need ontology-first version control | [knowledge-as-code.com](https://knowledge-as-code.com/) |
 | [skill-a11y-audit](https://github.com/snapsynapse/skill-a11y-audit) | Maintained skill | Agent-generated web code needs WCAG 2.1 AA quality gates | [skilla11y.dev](https://skilla11y.dev/) |
-| [ai-incident-law](https://github.com/snapsynapse/ai-incident-law) | Public index | AI-related legal and regulatory incidents need searchable public tracking | [aiincidentlaw.org](https://aiincidentlaw.org/) |
 
 ---
 
