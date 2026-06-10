@@ -10,15 +10,9 @@
 [![Signals & Subtractions · Weekly](https://img.shields.io/badge/Signals%20%26%20Subtractions%20%C2%B7%20Weekly-FF6719?logo=substack&logoColor=white)](https://signalsandsubtractions.substack.com/)
 [![PAICE.work · Weekdays](https://img.shields.io/badge/PAICE.work%20%C2%B7%20Weekdays-FF6719?logo=substack&logoColor=white)](https://paice.substack.com/)
 
-I work on AI agent infrastructure, open standards, and measurement systems.
-
-Founder, [PAICE.work](https://paice.work/) and [Snap Synapse](https://snapsynapse.com/).
+Founder, [PAICE.work](https://paice.work/) and [Snap Synapse](https://snapsynapse.com/). I work on AI agent infrastructure, open standards, and measurement systems.
 
 Systems do not generally fail because the tech is bad. They fail at the handoffs between roles, between agents, between decisions that no one designed to connect. I build the standards, diagnostics, and tooling that make human-AI collaboration structurally sound, not just technically possible.
-
-Interoperability over integration. Measurement over intuition. Structure over speed.
-
-**Now:** AI Posture + Aggregated Intelligence twin whitepaper · GuideCheck Level 5 runtime conformance · EveryAILaw Pro
 
 ---
 
@@ -36,8 +30,7 @@ Interoperability over integration. Measurement over intuition. Structure over sp
 
 ### External signals
 
-- [Skill Provenance](https://github.com/snapsynapse/skill-provenance) is listed in [Awesome OpenClaw Skills](https://github.com/VoltAgent/awesome-openclaw-skills) and scored [8.41/10 on ProSkills.md](https://proskills.md).
-- [Agentlink](https://github.com/snapsynapse/agentlink) includes upstream CLI enhancements proposed in [PR #2](https://github.com/martinmose/agentlink/pull/2).
+- [Skill Provenance](https://github.com/snapsynapse/skill-provenance) is listed in [Awesome OpenClaw Skills](https://github.com/VoltAgent/awesome-openclaw-skills).
 - [PAICE.work](https://paice.work/), [Siteline](https://siteline.to/), and [EveryAILaw](https://everyailaw.com/) are deployed public products.
 - [Signals & Subtractions](https://signalsandsubtractions.substack.com/) publishes weekly. [PAICE Newsletter](https://paice.substack.com/) publishes every weekday.
 
@@ -53,42 +46,25 @@ True intelligence in the AI era is composite: human and machine capabilities com
 | Infrastructure | [Siteline](https://siteline.to/) | How ready an organization's digital presence is for AI agents acting on behalf of humans |
 | Regulation | [EveryAILaw](https://everyailaw.com/) | How informed and prepared an organization is for AI-specific compliance |
 
-Synthesized into a single [AI Posture](https://aiposture.org/) score. One number, three places to invest. AI Posture sits at the top of the PAICE portfolio as the unifying thesis the rest of the work operationalizes.
+Synthesized into a single [AI Posture](https://aiposture.org/) score. One number, three places to invest.
 
 ---
 
 ### PAICE Portfolio
 
-Released independently because interoperability is the point, not lock-in. Portable specs and tools for agent infrastructure, governance, and machine-readable public knowledge. AI Posture is the thesis; the three measurement arms (People, Infrastructure, Regulation) each have a lead instrument; substrate is the cross-cutting open-standards layer.
+Released independently because interoperability is the point, not lock-in. Portable specs and tools for agent infrastructure, governance, and machine-readable public knowledge. AI Posture is the thesis; the measurement arms and substrate operationalize it. Status: Stable means the spec is settled and in use; Active means evolving and usable now.
 
-#### Thesis
-
-| Project | Status | Use it when... | Site |
-|---|---|---|---|
-| [ai-posture](https://github.com/snapsynapse/ai-posture) | Active framework | One governance score is needed across People, Infrastructure, and Regulation, bounded by the weakest arm | [aiposture.org](https://aiposture.org/) |
-
-#### Regulation arm: open siblings
-
-| Project | Status | Use it when... | Site |
-|---|---|---|---|
-| [publedge](https://github.com/snapsynapse/publedge) | Active draft | Regulatory interpretations need open, hash-pinned, ontology-bound records | [publedge.org](https://publedge.org/) |
-| [ai-incident-law](https://github.com/snapsynapse/ai-incident-law) | Public index | AI-related legal and regulatory incidents need searchable public tracking | [aiincidentlaw.org](https://aiincidentlaw.org/) |
-
-#### Substrate: in production
-
-| Project | Status | Use it when... | Site |
-|---|---|---|---|
-| [graceful-boundaries](https://github.com/snapsynapse/graceful-boundaries) | Stable spec | Services need to communicate operational limits to humans and autonomous agents | [gracefulboundaries.dev](https://gracefulboundaries.dev/) |
-| [obligation-first](https://github.com/snapsynapse/obligation-first) | Active schema | Laws, cases, and agreements need a four-role normative spine in JSON-LD | [obligationfirst.org](https://obligationfirst.org/) |
-| [guidecheck](https://github.com/snapsynapse/guidecheck) | Active draft | Assistant-facing setup guides need a bounded, human-verifiable profile | [guidecheck.org](https://guidecheck.org/) |
-| [knowledge-as-code-template](https://github.com/snapsynapse/knowledge-as-code-template) | Maintained template | Structured knowledge bases need ontology-first version control | [knowledge-as-code.com](https://knowledge-as-code.com/) |
-
-#### Substrate: active development
-
-| Project | Status | Use it when... | Site |
-|---|---|---|---|
-| [turnfile](https://github.com/snapsynapse/turnfile) | Active draft | Multiple agents need consent-based collaboration without a central orchestrator | [turnfile.work](https://turnfile.work/) |
-| [skill-provenance](https://github.com/snapsynapse/skill-provenance) | Stable spec | Agent skill bundles need version identity, manifests, and provenance | [skillprovenance.dev](https://skillprovenance.dev/) |
+| Project | Group | Status | Use it when... | Site |
+|---|---|---|---|---|
+| [ai-posture](https://github.com/snapsynapse/ai-posture) | Thesis | Active | One governance score is needed across People, Infrastructure, and Regulation, bounded by the weakest arm | [aiposture.org](https://aiposture.org/) |
+| [publedge](https://github.com/snapsynapse/publedge) | Regulation | Active | Regulatory interpretations need open, hash-pinned, ontology-bound records | [publedge.org](https://publedge.org/) |
+| [ai-incident-law](https://github.com/snapsynapse/ai-incident-law) | Regulation | Active | AI-related legal and regulatory incidents need searchable public tracking | [aiincidentlaw.org](https://aiincidentlaw.org/) |
+| [graceful-boundaries](https://github.com/snapsynapse/graceful-boundaries) | Substrate | Stable | Services need to communicate operational limits to humans and autonomous agents | [gracefulboundaries.dev](https://gracefulboundaries.dev/) |
+| [skill-provenance](https://github.com/snapsynapse/skill-provenance) | Substrate | Stable | Agent skill bundles need version identity, manifests, and provenance | [skillprovenance.dev](https://skillprovenance.dev/) |
+| [knowledge-as-code-template](https://github.com/snapsynapse/knowledge-as-code-template) | Substrate | Stable | Structured knowledge bases need ontology-first version control | [knowledge-as-code.com](https://knowledge-as-code.com/) |
+| [obligation-first](https://github.com/snapsynapse/obligation-first) | Substrate | Active | Laws, cases, and agreements need a four-role normative spine in JSON-LD | [obligationfirst.org](https://obligationfirst.org/) |
+| [guidecheck](https://github.com/snapsynapse/guidecheck) | Substrate | Active | Assistant-facing setup guides need a bounded, human-verifiable profile | [guidecheck.org](https://guidecheck.org/) |
+| [turnfile](https://github.com/snapsynapse/turnfile) | Substrate | Active | Multiple agents need consent-based collaboration without a central orchestrator | [turnfile.work](https://turnfile.work/) |
 
 ### Snap Synapse open standards
 
@@ -96,9 +72,9 @@ Open standards stewarded by Snap Synapse LLC. Used across the PAICE portfolio an
 
 | Project | Status | Use it when... | Site |
 |---|---|---|---|
-| [hardguard25](https://github.com/snapsynapse/hardguard25) | Stable spec | Identifiers must survive handoff between people, print, and machines | [hardguard25.com](https://hardguard25.com/) |
-| [ai-tool-watch](https://github.com/snapsynapse/ai-tool-watch) | Production reference | AI capability assessments need a plain-English, model-verified reference | [aitool.watch](https://aitool.watch/) |
-| [skill-a11y-audit](https://github.com/snapsynapse/skill-a11y-audit) | Maintained skill | Agent-generated web code needs WCAG 2.1 AA quality gates | [skilla11y.dev](https://skilla11y.dev/) |
+| [hardguard25](https://github.com/snapsynapse/hardguard25) | Stable | Identifiers must survive handoff between people, print, and machines | [hardguard25.com](https://hardguard25.com/) |
+| [ai-tool-watch](https://github.com/snapsynapse/ai-tool-watch) | Stable | AI capability assessments need a plain-English, model-verified reference | [aitool.watch](https://aitool.watch/) |
+| [skill-a11y-audit](https://github.com/snapsynapse/skill-a11y-audit) | Stable | Agent-generated web code needs WCAG 2.1 AA quality gates | [skilla11y.dev](https://skilla11y.dev/) |
 
 ---
 
@@ -108,11 +84,11 @@ Personal tooling. Open source.
 
 | Project | Status | Use it when... | Site |
 |---|---|---|---|
-| [resume](https://github.com/snapsynapse/resume) | Active profile | Recruiters need concise work history, AI-assisted Q&A, and job-description fit assessment | [sam-rogers.com](https://sam-rogers.com/) |
-| [prompter-kit](https://github.com/snapsynapse/prompter-kit) | Maintained utility | Your Elgato Prompter needs script tools the vendor did not ship | [prompterkit.app](https://prompterkit.app/) |
-| [virtual-classroom-watch](https://github.com/snapsynapse/virtual-classroom-watch) | Public reference | Virtual classroom platforms need comparable feature tracking | [VirtualClassroom.watch](https://VirtualClassroom.watch/) |
-| [substack2md](https://github.com/snapsynapse/substack2md) | Maintained utility | Substack newsletters need local Markdown archives for consistent RAG storage | [substack2md.space](https://substack2md.space/) |
-| [audible-pdf-renamer](https://github.com/snapsynapse/audible-pdf-renamer) | Small utility | Audible PDF companions need useful file names | N/A |
+| [resume](https://github.com/snapsynapse/resume) | Active | Recruiters need concise work history, AI-assisted Q&A, and job-description fit assessment | [sam-rogers.com](https://sam-rogers.com/) |
+| [prompter-kit](https://github.com/snapsynapse/prompter-kit) | Stable | Your Elgato Prompter needs script tools the vendor did not ship | [prompterkit.app](https://prompterkit.app/) |
+| [virtual-classroom-watch](https://github.com/snapsynapse/virtual-classroom-watch) | Active | Virtual classroom platforms need comparable feature tracking | [VirtualClassroom.watch](https://VirtualClassroom.watch/) |
+| [substack2md](https://github.com/snapsynapse/substack2md) | Stable | Substack newsletters need local Markdown archives for consistent RAG storage | [substack2md.space](https://substack2md.space/) |
+| [audible-pdf-renamer](https://github.com/snapsynapse/audible-pdf-renamer) | Stable | Audible PDF companions need useful file names | N/A |
 
 ---
 
@@ -123,13 +99,7 @@ Active contributor to other people's projects that I use and care about.
 | Project | Upstream | Contribution |
 |---|---|---|
 | [OB1](https://github.com/snapsynapse/OB1) | Nate B. Jones' [Open Brain](https://github.com/NateBJones-Projects/OB1) | Extensions, recipes, skills, and primitives in the Open Brain ecosystem |
-| [agentlink](https://github.com/snapsynapse/agentlink) | Martin Mose Facondini's [agentlink](https://github.com/martinmose/agentlink) | CLI enhancements proposed upstream in [PR #2](https://github.com/martinmose/agentlink/pull/2): `detect`, `scan`, `hooks`, `sync --backup`, global config, integration tests |
-
----
-
-### Companies
-
-[PAICE.work PBC](https://paice.work/) · [Snap Synapse LLC](https://snapsynapse.com/) · [yours](https://github.com/snapsynapse/resume)
+| [agentlink](https://github.com/snapsynapse/agentlink) | Martin Mose Facondini's [agentlink](https://github.com/martinmose/agentlink) | CLI enhancements proposed upstream: `detect`, `scan`, `hooks`, `sync --backup`, global config, integration tests |
 
 ---
 
