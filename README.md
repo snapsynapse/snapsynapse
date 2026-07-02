@@ -10,9 +10,9 @@
 [![Signals & Subtractions · Weekly](https://img.shields.io/badge/Signals%20%26%20Subtractions%20%C2%B7%20Weekly-FF6719?logo=substack&logoColor=white)](https://signalsandsubtractions.substack.com/)
 [![PAICE.work · Weekdays](https://img.shields.io/badge/PAICE.work%20%C2%B7%20Weekdays-FF6719?logo=substack&logoColor=white)](https://paice.substack.com/)
 
-Twenty years building learning and certification systems, including the first YouTube Certified online training program at Google, which replaced a classroom pipeline reaching ~1,000 partners a year with an online program reaching ~10,000 in its first year. Now I apply that experience to the newest workforce transition: humans working with AI.
+Twenty years building learning and certification systems, including the first YouTube Certified online training program at Google. As someone working with LLMs before they had chatbots attached, I apply my diverse experience to the newest workforce transition: humans working with AI.
 
-I run two companies from this personal account. [PAICE.work PBC](https://paice.work/) builds AI collaboration measurement products. [Snap Synapse LLC](https://snapsynapse.com/) is my consulting practice and steward of several open standards. Based in the SF Bay Area.
+I run two companies from this personal account. [PAICE.work PBC](https://paice.work/) builds AI collaboration measurement products. [Snap Synapse LLC](https://snapsynapse.com/) is my consulting practice and steward of several open standards.
 
 Systems do not generally fail because the tech is bad. They fail at the handoffs between roles, between agents, between decisions that no one designed to connect. I build the standards, diagnostics, and tooling that make human-AI collaboration structurally sound, not just technically possible.
 
