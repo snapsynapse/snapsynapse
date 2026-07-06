@@ -21,8 +21,8 @@ Systems do not generally fail because the tech is bad. They fail at the handoffs
 
 | If you are... | Start with | Why |
 |---|---|---|
+| Coordinating multiple agents | [AI Decision Records](https://github.com/snapsynapse/aidr) | Provides a consent-based peer protocol without a central orchestrator |
 | Building assistant-facing setup docs | [GuideCheck](https://github.com/snapsynapse/guidecheck) | Gives assistants a bounded, human-reviewable `assistant-guide.txt` before they act |
-| Coordinating multiple agents | [Turnfile](https://github.com/snapsynapse/turnfile) | Provides a consent-based peer protocol without a central orchestrator |
 | Publishing regulatory interpretations | [PubLedge](https://github.com/snapsynapse/publedge) | Makes JIAs, RMAs, no-action letters, and advisory opinions hash-pinned and machine-readable |
 | Measuring AI readiness | [AI Posture](https://github.com/snapsynapse/ai-posture) | Scores readiness across people, infrastructure, and regulation |
 | Auditing AI-generated UI | [A11y Audit](https://github.com/snapsynapse/skill-a11y-audit) | Runs portable WCAG 2.1 AA checks on agent-authored web code |
