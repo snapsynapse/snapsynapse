@@ -8,7 +8,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/samrogers/)
 [![sam-rogers.com](https://img.shields.io/badge/sam--rogers.com-333333?logo=rss&logoColor=white)](https://sam-rogers.com/)
 [![Signals & Subtractions · Weekly](https://img.shields.io/badge/Signals%20%26%20Subtractions%20%C2%B7%20Weekly-FF6719?logo=substack&logoColor=white)](https://signalsandsubtractions.substack.com/)
-[![PAICE.work · Weekdays](https://img.shields.io/badge/PAICE.work%20%C2%B7%20Weekdays-FF6719?logo=substack&logoColor=white)](https://paice.substack.com/)
 
 Twenty years building learning and certification systems, including the first YouTube Certified online training program at Google. As someone working with LLMs before they had chatbots attached, I apply my diverse experience to the newest workforce transition: humans working with AI.
 
