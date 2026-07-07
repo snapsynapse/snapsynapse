@@ -21,6 +21,7 @@ Systems do not generally fail because the tech is bad. They fail at the handoffs
 
 | If you are... | Start with | Why |
 |---|---|---|
+| Running AI agents safely | [Harnessie](https://github.com/snapsynapse/harnessie) | Gives you a brain-agnostic harness with verification gates, consent, ownership lanes, and fail-closed controls |
 | Coordinating multiple agents | [AI Decision Records](https://github.com/snapsynapse/aidr) | Provides a consent-based peer protocol without a central orchestrator |
 | Building assistant-facing setup docs | [GuideCheck](https://github.com/snapsynapse/guidecheck) | Gives assistants a bounded, human-reviewable `assistant-guide.txt` before they act |
 | Publishing regulatory interpretations | [PubLedge](https://github.com/snapsynapse/publedge) | Makes JIAs, RMAs, no-action letters, and advisory opinions hash-pinned and machine-readable |
