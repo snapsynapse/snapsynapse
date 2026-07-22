@@ -32,9 +32,9 @@ Systems do not generally fail because the tech is bad. They fail at the handoffs
 
 ### Verifiable signals
 
-Everything here is young. These are the signals that exist today, all checkable:
+Current signals, all checkable:
 
-- 3 merged pull requests and 7 upstream commits in Nate B. Jones' [Open Brain](https://github.com/NateBJones-Projects/OB1), including the [openbrain.fyi](https://openbrain.fyi/) landing page.
+- 4 merged pull requests and 7 upstream commits across Nate B. Jones' [Open Brain](https://github.com/NateBJones-Projects/OB1) and [Ringer](https://github.com/NateBJones-Projects/ringer), including the [openbrain.fyi](https://openbrain.fyi/) landing page.
 - [Skill Provenance](https://github.com/snapsynapse/skill-provenance) is listed in [Awesome OpenClaw Skills](https://github.com/VoltAgent/awesome-openclaw-skills).
 - [PAICE.work](https://paice.work/), [Siteline](https://siteline.to/), and [EveryAILaw](https://everyailaw.com/) are live, self-funded products with paying-tier billing.
 - [Signals & Subtractions](https://signalsandsubtractions.substack.com/) publishes weekly. The [PAICE Newsletter](https://paice.substack.com/) publishes every weekday.
@@ -49,7 +49,7 @@ Most AI readiness assessments measure the technology. But an organization's real
 | What it measures | Product |
 |---|---|
 | How effectively humans and AI actually collaborate, measured behaviorally rather than by self-report | [PAICE.work](https://paice.work/) |
-| How ready a website is for AI agents acting on behalf of humans | [Siteline](https://siteline.to/) |
+| The first public end-to-end agent-readiness scanner, testing reachability, comprehension, navigation, actionability, protocols, and standards | [Siteline](https://siteline.to/) |
 | How prepared an organization is for AI-specific compliance | [EveryAILaw](https://everyailaw.com/) |
 
 ---
