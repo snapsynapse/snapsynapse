@@ -7,7 +7,7 @@
 [![Sponsor](https://img.shields.io/badge/Sponsor-ea4aaa?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/snapsynapse)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/samrogers/)
 [![sam-rogers.com](https://img.shields.io/badge/sam--rogers.com-333333?logo=rss&logoColor=white)](https://sam-rogers.com/)
-[![Signals & Subtractions · Weekly](https://img.shields.io/badge/Signals%20%26%20Subtractions%20%C2%B7%20Weekly-FF6719?logo=substack&logoColor=white)](https://signalsandsubtractions.substack.com/)
+[![Signals & Subtractions · Show](https://img.shields.io/badge/Signals%20%26%20Subtractions%20%C2%B7%20Show-FF6719?logo=youtube&logoColor=white)](https://sigsub.show/)
 
 Twenty years building learning and certification systems, including the first YouTube Certified online training program at Google. As someone working with LLMs before they had chatbots attached, I apply my diverse experience to the newest workforce transition: humans working with AI.
 
@@ -34,11 +34,11 @@ Systems do not generally fail because the tech is bad. They fail at the handoffs
 
 Current signals, all checkable:
 
-- 4 merged pull requests and 7 upstream commits across Nate B. Jones' [Open Brain](https://github.com/NateBJones-Projects/OB1) and [Ringer](https://github.com/NateBJones-Projects/ringer), including the [openbrain.fyi](https://openbrain.fyi/) landing page.
-- [Skill Provenance](https://github.com/snapsynapse/skill-provenance) is listed in [Awesome OpenClaw Skills](https://github.com/VoltAgent/awesome-openclaw-skills).
+- 4 merged PRs and 7 upstream commits across Nate B. Jones' [Open Brain](https://github.com/NateBJones-Projects/OB1) and [Ringer](https://github.com/NateBJones-Projects/ringer), including the [openbrain.fyi](https://openbrain.fyi/) landing page.
+- [Skill Provenance](https://github.com/snapsynapse/skill-provenance) appears in [Awesome OpenClaw Skills](https://github.com/VoltAgent/awesome-openclaw-skills).
 - [PAICE.work](https://paice.work/), [Siteline](https://siteline.to/), and [EveryAILaw](https://everyailaw.com/) are live, self-funded products with paying-tier billing.
-- [Signals & Subtractions](https://signalsandsubtractions.substack.com/) publishes weekly. The [PAICE Newsletter](https://paice.substack.com/) publishes every weekday.
-- Every hosted spec below ships with CI, a license, and a machine-readable surface (`llms.txt`, JSON-LD, or both).
+- [Signals & Subtractions](https://sigsub.show/): weekly livestream, podcast, and newsletter. [PAICE](https://paice.substack.com/): twice weekly after nearly nine months of weekday publishing.
+- Hosted specs below include CI, licensing, and machine-readable `llms.txt`, JSON-LD, or both.
 
 ---
 
