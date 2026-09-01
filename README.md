@@ -34,7 +34,7 @@ AI systems often fail around the model: people overtrust uncertain output, agent
 What you can inspect today is working software, public release history, enforced tests, live APIs, open specifications, threat models, and the decisions behind them.
 
 - Five merged pull requests across Nate B. Jones' [Open Brain](https://github.com/NateBJones-Projects/OB1) and [Ringer](https://github.com/NateBJones-Projects/ringer), with two more in review. The merged work includes Obsidian import, local Ollama embeddings, and the [openbrain.fyi](https://openbrain.fyi/) landing and deployment workflow.
-- [Skill Provenance](https://github.com/snapsynapse/skill-provenance) is listed in [Awesome OpenClaw Skills](https://github.com/VoltAgent/awesome-openclaw-skills).
+- [Skill Provenance](https://github.com/snapsynapse/skill-provenance) is listed in [Awesome OpenClaw Skills](https://github.com/VoltAgent/awesome-openclaw-skills) and redistributed with source attribution in [openclaw-master-skills](https://github.com/LeoYeAI/openclaw-master-skills/tree/e5199b56ae1ff72e141586c17695563486c46702/skills/skill-provenance).
 - [Signals & Subtractions](https://sigsub.show/) livestreams every Wednesday, releases a new episode every Friday, and publishes a new newsletter every Sunday. I also publish frequent field notes at [sam-rogers.com](https://sam-rogers.com/).
 - The five projects in the Start here table are live now. The three commercial products expose real offers.
 
