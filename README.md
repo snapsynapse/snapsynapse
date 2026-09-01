@@ -4,9 +4,14 @@
 
 I build AI systems and open protocols that make human-agent work measurable, governable, and verifiable.
 
-I'm the founder of [PAICE.work PBC](https://paice.work/) and [Snap Synapse LLC](https://snapsynapse.com/). Over 25 years, I have built learning, certification, and operational systems that turn new technology into demonstrated human capability. At Google, I led the first YouTube Certified online training program, taking partner certification from about 1,000 classroom participants per year to about 10,000 online participants in its first year.
+[![Sponsor](https://img.shields.io/badge/Sponsor-ea4aaa?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/snapsynapse)
+[![PAICE Portfolio](https://img.shields.io/badge/PAICE%20Portfolio-334E68?logo=target&logoColor=white)](https://paice.foundation/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/samrogers/)
+[![sam-rogers.com](https://img.shields.io/badge/sam--rogers.com-333333?logo=rss&logoColor=white)](https://sam-rogers.com/)
+[![Signals & Subtractions · Show](https://img.shields.io/badge/Signals%20%26%20Subtractions%20%C2%B7%20Show-FF6719?logo=youtube&logoColor=white)](https://sigsub.show/)
+[![Email](https://img.shields.io/badge/Email-333333?logo=gmail&logoColor=white)](mailto:hello@sam-rogers.com)
 
-[PAICE Portfolio](https://paice.foundation/) · [Blog](https://sam-rogers.com/) · [Weekly Show/Newsletter](https://sigsub.show/) · [LinkedIn](https://linkedin.com/in/samrogers/) · [Email](mailto:hello@sam-rogers.com)
+I'm the founder of [PAICE.work PBC](https://paice.work/) and [Snap Synapse LLC](https://snapsynapse.com/). Over 25 years, I have built learning, certification, and operational systems that turn new technology into demonstrated human capability. At Google, I led the first YouTube Certified online training program, taking partner certification from about 1,000 classroom participants per year to about 10,000 online participants in its first year.
 
 ## Start here
 
