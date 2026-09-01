@@ -1,133 +1,81 @@
-<img align="right" src="imgs/og.png" width="180" alt="Snap Synapse" />
+<img align="right" src="imgs/og.png" width="150" alt="Snap Synapse logo" />
 
 # Sam Rogers
 
-**I build AI on-ramps for humans.**
+I build AI systems and open protocols that make human-agent work measurable, governable, and verifiable.
 
-[![Sponsor](https://img.shields.io/badge/Sponsor-ea4aaa?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/snapsynapse)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/samrogers/)
-[![sam-rogers.com](https://img.shields.io/badge/sam--rogers.com-333333?logo=rss&logoColor=white)](https://sam-rogers.com/)
-[![Signals & Subtractions · Show](https://img.shields.io/badge/Signals%20%26%20Subtractions%20%C2%B7%20Show-FF6719?logo=youtube&logoColor=white)](https://sigsub.show/)
+I'm the founder of [PAICE.work PBC](https://paice.work/) and [Snap Synapse LLC](https://snapsynapse.com/). Over 25 years, I have built learning, certification, and operational systems that turn new technology into demonstrated human capability. At Google, I led the first YouTube Certified online training program, taking partner certification from about 1,000 classroom participants per year to about 10,000 online participants in its first year.
 
-Twenty years building learning and certification systems, including the first YouTube Certified online training program at Google. As someone working with LLMs before they had chatbots attached, I apply my diverse experience to the newest workforce transition: humans working with AI.
+[PAICE Portfolio](https://paice.foundation/) · [Blog](https://sam-rogers.com/) · [Weekly Show/Newsletter](https://sigsub.show/) · [LinkedIn](https://linkedin.com/in/samrogers/) · [Email](mailto:hello@sam-rogers.com)
 
-I run two companies from this personal account. [PAICE.work PBC](https://paice.work/) builds AI collaboration measurement products. [Snap Synapse LLC](https://snapsynapse.com/) is my consulting practice and steward of several open standards.
+## Start here
 
-Systems do not generally fail because the tech is bad. They fail at the handoffs between roles, between agents, between decisions that no one designed to connect. I build the standards, diagnostics, and tooling that make human-AI collaboration structurally sound, not just technically possible.
-
----
-
-### Start here
-
-| If you are... | Start with | Why |
+| If you need to... | Start with | What it does |
 |---|---|---|
-| Running AI agents safely | [Harnessie](https://github.com/snapsynapse/harnessie) | Gives you a brain-agnostic harness with verification gates, consent, ownership lanes, and fail-closed controls |
-| Coordinating multiple agents | [AI Decision Records](https://github.com/snapsynapse/aidr) | Provides a consent-based peer protocol without a central orchestrator |
-| Building assistant-facing setup docs | [GuideCheck](https://github.com/snapsynapse/guidecheck) | Gives assistants a bounded, human-reviewable `assistant-guide.txt` before they act |
-| Publishing regulatory interpretations | [PubLedge](https://github.com/snapsynapse/publedge) | Makes JIAs, RMAs, no-action letters, and advisory opinions hash-pinned and machine-readable |
-| Measuring AI readiness | [AI Posture](https://github.com/snapsynapse/ai-posture) | Scores readiness across people, infrastructure, and regulation |
-| Auditing AI-generated UI | [A11y Audit](https://github.com/snapsynapse/skill-a11y-audit) | Runs portable WCAG 2.1 AA checks on agent-authored web code |
+| Run multiple AI agents without relying on prompt-level guardrails | [Harnessie](https://harnessie.com/) | Enforces independent verification, per-agent file ownership, budgets, sandboxing, human arbitration, and a tamper-evident audit trail |
+| Measure how people behave when AI is uncertain, incomplete, or wrong | [PAICE.work](https://paice.work/) | Uses adaptive work simulations to produce behavioral AI-risk evidence instead of another self-report |
+| Find out whether AI agents can actually use a website | [Siteline](https://siteline.to/) | Scans reachability, comprehension, navigation, actionability, and machine-readable agent support |
+| Let software check which AI laws and obligations apply | [EveryAILaw](https://everyailaw.com/) | Publishes structured regulatory data through a public API and MCP server, with source-linked evidence |
+| Make assistant-facing instructions reviewable before an agent acts | [GuideCheck](https://guidecheck.org/) | Defines and verifies a bounded plain-text instruction surface that humans and agents can inspect identically |
 
----
+## What connects the work
 
-### Verifiable signals
+AI systems often fail around the model: people overtrust uncertain output, agents cross authority boundaries, websites hide the next step, and regulatory duties arrive as prose that software cannot use. I turn those failure points into things people and software can inspect, test, and improve.
 
-Current signals, all checkable:
+[PAICE.work PBC](https://paice.foundation/) builds measurement products, regulatory infrastructure, and their supporting open standards. [Snap Synapse LLC](https://snapsynapse.com/) is my consulting and open-source practice, including Harnessie, Agentlink, and developer utilities. The entities are separate; the operating principle is shared: important claims should come with evidence.
 
-- 4 merged PRs and 7 upstream commits across Nate B. Jones' [Open Brain](https://github.com/NateBJones-Projects/OB1) and [Ringer](https://github.com/NateBJones-Projects/ringer), including the [openbrain.fyi](https://openbrain.fyi/) landing page.
-- [Skill Provenance](https://github.com/snapsynapse/skill-provenance) appears in [Awesome OpenClaw Skills](https://github.com/VoltAgent/awesome-openclaw-skills).
-- [PAICE.work](https://paice.work/), [Siteline](https://siteline.to/), and [EveryAILaw](https://everyailaw.com/) are live, self-funded products with paying-tier billing.
-- [Signals & Subtractions](https://sigsub.show/): weekly livestream, podcast, and newsletter. [PAICE](https://paice.substack.com/): twice weekly after nearly nine months of weekday publishing.
-- Hosted specs below include CI, licensing, and machine-readable `llms.txt`, JSON-LD, or both.
+## Proof, with the limits left in
 
----
+What you can inspect today is working software, public release history, enforced tests, live APIs, open specifications, threat models, and the decisions behind them.
 
-### The thesis: measure the whole system, not just the model
+- Five merged pull requests across Nate B. Jones' [Open Brain](https://github.com/NateBJones-Projects/OB1) and [Ringer](https://github.com/NateBJones-Projects/ringer), with two more in review. The merged work includes Obsidian import, local Ollama embeddings, and the [openbrain.fyi](https://openbrain.fyi/) landing and deployment workflow.
+- [Skill Provenance](https://github.com/snapsynapse/skill-provenance) is listed in [Awesome OpenClaw Skills](https://github.com/VoltAgent/awesome-openclaw-skills).
+- [Signals & Subtractions](https://sigsub.show/) livestreams every Wednesday, releases a new episode every Friday, and publishes a new newsletter every Sunday. I also publish frequent field notes at [sam-rogers.com](https://sam-rogers.com/).
+- The five projects in the Start here table are live now. The three commercial products expose real offers.
 
-Most AI readiness assessments measure the technology. But an organization's real AI capability is bounded by three things at once: whether its people can actually work with AI (not whether they say they can), whether its digital infrastructure is usable by AI agents acting for customers, and whether it understands the regulations it is already subject to. [AI Posture](https://aiposture.org/) is the open framework that scores all three and reports the weakest as the bound. One number, three places to invest.
+## Selected open work
 
-| What it measures | Product |
+<details>
+<summary>Agent execution, coordination, and trust</summary>
+
+| Project | Use it when... |
 |---|---|
-| How effectively humans and AI actually collaborate, measured behaviorally rather than by self-report | [PAICE.work](https://paice.work/) |
-| The first public end-to-end agent-readiness scanner, testing reachability, comprehension, navigation, actionability, protocols, and standards | [Siteline](https://siteline.to/) |
-| How prepared an organization is for AI-specific compliance | [EveryAILaw](https://everyailaw.com/) |
-
----
-
-### PAICE Portfolio
-
-Released independently because interoperability is the point, not lock-in. Portable specs and tools for agent infrastructure, governance, and machine-readable public knowledge. Status meanings: **Stable** means a tagged release at 1.0 or later, tests in CI, and no recent breaking changes; **Active** means evolving and usable now.
-
-<details>
-<summary><strong>All nine PAICE projects</strong> (AI Posture is the thesis; the rest operationalize it)</summary>
-
-| Project | Group | Status | Use it when... | Site |
-|---|---|---|---|---|
-| [ai-posture](https://github.com/snapsynapse/ai-posture) | Thesis | Active | One governance score is needed across People, Infrastructure, and Regulation, bounded by the weakest arm | [aiposture.org](https://aiposture.org/) |
-| [publedge](https://github.com/snapsynapse/publedge) | Regulation | Active | Regulatory interpretations need open, hash-pinned, ontology-bound records | [publedge.org](https://publedge.org/) |
-| [ai-incident-law](https://github.com/snapsynapse/ai-incident-law) | Regulation | Active | AI-related legal and regulatory incidents need searchable public tracking | [aiincidentlaw.org](https://aiincidentlaw.org/) |
-| [graceful-boundaries](https://github.com/snapsynapse/graceful-boundaries) | Substrate | Stable | Services need to communicate operational limits to humans and autonomous agents | [gracefulboundaries.dev](https://gracefulboundaries.dev/) |
-| [skill-provenance](https://github.com/snapsynapse/skill-provenance) | Substrate | Active | Agent skill bundles need version identity, manifests, and provenance | [skillprovenance.dev](https://skillprovenance.dev/) |
-| [knowledge-as-code-template](https://github.com/snapsynapse/knowledge-as-code-template) | Substrate | Stable | Structured knowledge bases need ontology-first version control | [knowledge-as-code.com](https://knowledge-as-code.com/) |
-| [obligation-first](https://github.com/snapsynapse/obligation-first) | Substrate | Active | Laws, cases, and agreements need machine-readable structure around who owes what to whom | [obligationfirst.org](https://obligationfirst.org/) |
-| [guidecheck](https://github.com/snapsynapse/guidecheck) | Substrate | Active | Assistant-facing setup guides need a bounded, human-verifiable profile | [guidecheck.org](https://guidecheck.org/) |
-| [turnfile](https://github.com/snapsynapse/turnfile) | Substrate | Active | Multiple agents need consent-based collaboration without a central orchestrator | [turnfile.work](https://turnfile.work/) |
+| [Harnessie](https://github.com/snapsynapse/harnessie) | Multi-agent work needs enforceable controls, independent verification, and an inspectable audit trail |
+| [Agentlink](https://github.com/snapsynapse/agentlink) | One canonical `AGENTS.md` needs to reach multiple AI coding tools without copied configuration |
+| [Turnfile](https://github.com/snapsynapse/turnfile) | Peer agents need auditable disagreement, explicit turns, and human-governed resolution |
+| [AIDR](https://github.com/snapsynapse/aidr) | A consequential AI-assisted decision needs independent positions, preserved dissent, and human arbitration in one file |
+| [GuideCheck](https://github.com/snapsynapse/guidecheck) | The instructions an agent executes must match the surface a human reviewed |
+| [Graceful Boundaries](https://github.com/snapsynapse/graceful-boundaries) | A service needs to communicate operational limits clearly to people and agents |
+| [Skill Provenance](https://github.com/snapsynapse/skill-provenance) | Agent Skill bundles need portable version identity, integrity checks, and drift detection |
 
 </details>
 
-### Snap Synapse open standards
-
-Open standards stewarded by Snap Synapse LLC. Used across the PAICE portfolio and beyond.
-
 <details>
-<summary><strong>Three standards</strong></summary>
+<summary>Measurement, regulation, and public knowledge</summary>
 
-| Project | Status | Use it when... | Site |
-|---|---|---|---|
-| [hardguard25](https://github.com/snapsynapse/hardguard25) | Stable | Identifiers must survive handoff between people, print, and machines | [hardguard25.com](https://hardguard25.com/) |
-| [ai-tool-watch](https://github.com/snapsynapse/ai-tool-watch) | Active | AI capability assessments need a plain-English, model-verified reference | [aitool.watch](https://aitool.watch/) |
-| [skill-a11y-audit](https://github.com/snapsynapse/skill-a11y-audit) | Active | Agent-generated web code needs WCAG 2.1 AA quality gates | [skilla11y.dev](https://skilla11y.dev/) |
+| Project | Use it when... |
+|---|---|
+| [AI Posture](https://github.com/snapsynapse/ai-posture) | An organization needs one view across human capability, agent-ready infrastructure, and regulation |
+| [AI Incident Law](https://github.com/snapsynapse/ai-incident-law) | AI-related legal and regulatory incidents need searchable, source-linked public tracking |
+| [Obligation First](https://github.com/snapsynapse/obligation-first) | Laws, cases, and agreements need machine-readable structure around who owes what to whom |
+| [PubLedge](https://github.com/snapsynapse/publedge) | Public interpretations and notices need verifiable, hash-pinned publication records |
+| [Knowledge as Code](https://github.com/snapsynapse/knowledge-as-code-template) | A structured knowledge base needs version control, validation, and human and machine outputs from one source |
+| [AI Tool Watch](https://github.com/snapsynapse/ai-tool-watch) | AI capability claims need a plain-language, model-checked reference |
+| [A11y Audit](https://github.com/snapsynapse/skill-a11y-audit) | Agent-generated web code needs portable WCAG quality gates |
 
 </details>
 
-### Snap Synapse utilities
+[Browse all public repositories](https://github.com/snapsynapse?tab=repositories)
 
-Personal tooling. Open source.
+## Work with me
 
-<details>
-<summary><strong>Five utilities</strong></summary>
+The strongest fit is with people building agent infrastructure, deploying AI in regulated organizations, or trying to turn AI capability into an operating system that humans can trust.
 
-| Project | Status | Use it when... | Site |
-|---|---|---|---|
-| [resume](https://github.com/snapsynapse/resume) | Active | Recruiters need concise work history, AI-assisted Q&A, and job-description fit assessment | [sam-rogers.com](https://sam-rogers.com/) |
-| [prompter-kit](https://github.com/snapsynapse/prompter-kit) | Maintained | Your Elgato Prompter needs script tools the vendor did not ship | [prompterkit.app](https://prompterkit.app/) |
-| [virtual-classroom-watch](https://github.com/snapsynapse/virtual-classroom-watch) | Active | Virtual classroom platforms need comparable feature tracking | [VirtualClassroom.watch](https://virtualclassroom.watch/) |
-| [substack2md](https://github.com/snapsynapse/substack2md) | Stable | Substack newsletters need local Markdown archives for consistent RAG storage | [substack2md.space](https://substack2md.space/) |
-| [audible-pdf-renamer](https://github.com/snapsynapse/audible-pdf-renamer) | Maintained | Audible PDF companions need useful file names | N/A |
+| If you want to... | Best next step |
+|---|---|
+| Test or adopt an open tool or protocol | Open an issue in its repository with the real workflow you want it to survive |
+| Explore consulting, product collaboration, or a partnership | [Email me](mailto:hello@sam-rogers.com) with what you are building and the failure boundary you cannot yet measure |
+| Discuss a senior builder or operator role | Start with my [work and evidence](https://sam-rogers.com/) |
+| Follow the thinking behind the work | Read [Signals & Subtractions](https://sigsub.show/) or the field notes at [sam-rogers.com](https://sam-rogers.com/) |
 
-</details>
-
----
-
-### Contributing upstream
-
-Active contributor to other people's projects that I use and care about.
-
-| Project | Upstream | Contribution |
-|---|---|---|
-| [OB1](https://github.com/snapsynapse/OB1) | Nate B. Jones' [Open Brain](https://github.com/NateBJones-Projects/OB1) | 3 merged PRs and 7 upstream commits: Obsidian vault import recipe, local Ollama embeddings, openbrain.fyi landing page. More in review. |
-| [agentlink](https://github.com/snapsynapse/agentlink) | Martin Mose Facondini's [agentlink](https://github.com/martinmose/agentlink) | Open PR proposing `detect`, `scan`, `hooks`, and `sync --backup` commands with integration tests |
-
----
-
-### Support this open infrastructure
-
-The open standards and tooling above are free and always will be. Sponsorship keeps specs evolving, tests passing, and tooling free for everyone. The commercial products, including [PAICE.work](https://paice.work/), [Siteline](https://siteline.to/), and [EveryAILaw](https://everyailaw.com/), sustain themselves through paid tiers.
-
-[github.com/sponsors/snapsynapse](https://github.com/sponsors/snapsynapse)
-
----
-
-### Collaborating
-
-I am looking for early adopters and co-designers, not hires: people willing to run one of these specs against their own project and file issues, and people working on agent communication protocols, human capability measurement, or AI governance who want interoperable building blocks. Reach out: [hello@sam-rogers.com](mailto:hello@sam-rogers.com)
+Open-source sponsorship supports the specifications, tests, and public tooling: [GitHub Sponsors](https://github.com/sponsors/snapsynapse).
