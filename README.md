@@ -82,6 +82,7 @@ I'm the founder of [Snap Synapse LLC](https://snapsynapse.com/) and [PAICE.work 
 
 | If you want to... | Best next step |
 |---|---|
+| Fund or partner on independent mission work | See [how to support PAICE.work PBC](https://paice.foundation/#support) and start a conversation about mission-aligned funding |
 | Work through an AI adoption, learning-system, or operating challenge | Explore [Snap Synapse services](https://snapsynapse.com/) and [email me](mailto:hello@sam-rogers.com) with the decision your team needs to make |
 | Test, adopt, or extend an open tool | Open an issue in its repository with the workflow and the result you need |
 | Explore a PAICE assessment, legal-data use case, or pilot | Start with [PAICE](https://paice.work/) or [EveryAILaw](https://everyailaw.com/) and describe the task you want to test |
