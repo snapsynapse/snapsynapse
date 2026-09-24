@@ -2,7 +2,7 @@
 
 # Sam Rogers
 
-I'm here to help the world act wiser and more purposefully by improving how different intelligences work together. I pursue this through sharing open tools, public conversations, client work, and my startup's assessment and evidence infrastructure.
+I'm here to improve how different intelligences work together, so our decisions get wiser, not just smarter. I pursue this through sharing open tools, public conversations, client work, and my startup's assessment and evidence infrastructure.
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-ea4aaa?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/snapsynapse)
 [![Snap Synapse](https://img.shields.io/badge/Snap%20Synapse-333333)](https://snapsynapse.com/)
@@ -32,7 +32,7 @@ When I need a capability, I look for existing open-source work first. I adopt it
 
 - Client work and human capability: My YouTube certification and Convatec work are mapped in my [resume evidence ledger](https://github.com/snapsynapse/resume/blob/main/EVIDENCE.md). [Named client references](https://snapsynapse.com/about/testimonials/) describe Snap Synapse's work. Some employer and client details require a reference check rather than a public repository.
 - Open tools in use and under test: [Harnessie releases](https://github.com/snapsynapse/harnessie/releases), [Agentlink's credited lineage](https://github.com/snapsynapse/agentlink/blob/main/NOTICE), and [PrompterKit's credited lineage](https://github.com/snapsynapse/prompter-kit) show what shipped and what it builds upon. [Skill Provenance](https://github.com/snapsynapse/skill-provenance) is listed in [Awesome OpenClaw Skills](https://github.com/VoltAgent/awesome-openclaw-skills) and [redistributed with attribution](https://github.com/LeoYeAI/openclaw-master-skills/tree/e5199b56ae1ff72e141586c17695563486c46702/skills/skill-provenance). Listing and redistribution are reuse signals, not outcome studies.
-- Contributions to others' work: Five of my pull requests were merged across Nate B. Jones' [Open Brain](https://github.com/NateBJones-Projects/OB1/pulls?q=is%3Apr+author%3Asnapsynapse+is%3Amerged) and [Ringer](https://github.com/NateBJones-Projects/ringer/pulls?q=is%3Apr+author%3Asnapsynapse+is%3Amerged). They include Obsidian import, local Ollama embeddings, and the [openbrain.fyi](https://openbrain.fyi/) landing and deployment workflow.
+- Contributions to others' work: Five of my pull requests were merged across Nate B. Jones' [Open Brain](https://github.com/NateBJones-Projects/OB1/pulls?q=is%3Apr+author%3Asnapsynapse+is%3Amerged) and [Ringer](https://github.com/NateBJones-Projects/ringer/pulls?q=is%3Apr+author%3Asnapsynapse+is%3Amerged). They include Obsidian import, local Ollama embeddings, and the openbrain.fyi [landing page](https://github.com/NateBJones-Projects/OB1/pull/258) and [deployment workflow](https://github.com/NateBJones-Projects/OB1/pull/342).
 - Public inquiry and decisions: [Signals & Subtractions](https://sigsub.show/) brings practitioners together around consequential AI choices, with an episode on Friday and a newsletter on Sunday; sessions are livestreamed when the format fits. I also publish [field notes and longer writing](https://sam-rogers.com/). [AIDR's ratification record](https://github.com/snapsynapse/aidr/blob/main/decisions/AIDR-0002-ratify-spec-v0.1.0.md) shows recorded positions and human arbitration, including disclosed limits on reviewer independence.
 - Applications and remaining questions: [PAICE](https://paice.work/), [EveryAILaw](https://everyailaw.com/), and [Siteline](https://siteline.to/) expose work a visitor can inspect. Their existence does not establish a portfolio-wide improvement in collaboration outcomes. The baseline for the larger moonshot remains to be measured.
 
@@ -66,7 +66,7 @@ When I need a capability, I look for existing open-source work first. I adopt it
 | [AIDR](https://github.com/snapsynapse/aidr) | A consequential AI-assisted decision needs positions, preserved dissent, and human arbitration in one file |
 | [GuideCheck](https://github.com/snapsynapse/guidecheck) | Assistant-facing instructions need a bounded surface people can review before an agent acts |
 | [Graceful Boundaries](https://github.com/snapsynapse/graceful-boundaries) | A service needs to communicate operational limits clearly to people and agents |
-| [AI Posture](https://github.com/snapsynapse/ai-posture) | An organization needs one view across human capability, agent-ready infrastructure, and regulation |
+| [AI Posture](https://github.com/snapsynapse/ai-posture) | A team needs a shared mental model for understanding and communicating aggregated intelligence; a supporting framework, not a scored product |
 | [AI Incident Law](https://github.com/snapsynapse/ai-incident-law) | AI-related legal and regulatory incidents need searchable, source-linked public tracking |
 | [Obligation First](https://github.com/snapsynapse/obligation-first) | Laws, cases, and agreements need machine-readable structure around who owes what to whom |
 | [PubLedge](https://github.com/snapsynapse/publedge) | Public interpretations and notices need verifiable, hash-pinned publication records |
@@ -78,7 +78,7 @@ When I need a capability, I look for existing open-source work first. I adopt it
 
 ## Work with me
 
-I'm the founder of [Snap Synapse LLC](https://snapsynapse.com/) and [PAICE.work PBC](https://paice.work/). For more than 25 years, I've built learning, certification, and operational systems that turn new technology into demonstrated human capability. At Google, I led the first YouTube Certified online training program. At ADP, I reduced complex workflows to the essentials that people could understand and manage well. At Convatec (a global medical device manufacturer), I managed learning systems and analytics in a regulated setting. My [resume evidence ledger](https://github.com/snapsynapse/resume/blob/main/EVIDENCE.md) states the public and reference-check limits of the YouTube and Convatec claims.
+I'm the founder of [Snap Synapse LLC](https://snapsynapse.com/) and [PAICE.work PBC](https://paice.foundation/). For more than 25 years, I've built learning, certification, and operational systems that turn new technology into demonstrated human capability. At Google, I led the first YouTube Certified online training program. At ADP, I reduced complex workflows to the essentials that people could understand and manage well. At Convatec (a global medical device manufacturer), I managed learning systems and analytics in a regulated setting. My [resume evidence ledger](https://github.com/snapsynapse/resume/blob/main/EVIDENCE.md) states the public and reference-check limits of the YouTube and Convatec claims.
 
 | If you want to... | Best next step |
 |---|---|
