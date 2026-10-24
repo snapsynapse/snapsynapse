@@ -10,7 +10,6 @@ I build tools that make coding agents prove their work and check what they're ab
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/samrogers/)
 [![sam-rogers.com](https://img.shields.io/badge/sam--rogers.com-333333?logo=rss&logoColor=white)](https://sam-rogers.com/)
 [![Signals & Subtractions · Show](https://img.shields.io/badge/Signals%20%26%20Subtractions%20%C2%B7%20Show-FF6719?logo=youtube&logoColor=white)](https://sigsub.show/)
-[![Email](https://img.shields.io/badge/Email-333333?logo=gmail&logoColor=white)](mailto:hello@sam-rogers.com)
 
 ## Drop one into your workflow
 
